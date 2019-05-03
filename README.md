@@ -32,6 +32,8 @@ sudo apt-get install python3
    ```
    chmod a+x /opt/plex_trash_fixer/plex_trash_fixer.py
    ```
+   
+1. Update `DATABASE_PATH=` in `plex_trash_fixer.py` to match your Plex Media Server DB's location.
 
 ## Usage
 
